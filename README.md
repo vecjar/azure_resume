@@ -33,4 +33,8 @@ My Azure Resume
 
 - Created GitHub workflow responsible for deploying the backend of my project.
 
+# Summary
+
+A really fun project that got me hands on with Azure. One big roadblock I hit was trying to deploy my static website to Azure. The error I got was when deploying to the $web blob storage container via VSC. I found a work around however and instead of using VSC to deploy the website, I used Azure Storage Explorer and added the website manually to my storage account.
+
 
