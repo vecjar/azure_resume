@@ -3,7 +3,7 @@ My Azure Resume
 
 # Section 1 Building 
 
-- Created a GitHub Repo, cloned and started code to understand the project structure.
+- Created a GitHub Repo, cloned and studied code to understand the project structure.
 
 - Updated the HTML with resume info and wrote JavaScript code for the visitor counter.
 
