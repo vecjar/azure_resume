@@ -1,6 +1,7 @@
 # Azure Resume
 
 
+
 # Section 1 Building 
 
 - Created a GitHub Repo, cloned and studied code to understand the project structure.
