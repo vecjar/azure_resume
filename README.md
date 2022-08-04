@@ -1,5 +1,5 @@
 # Azure Resume
-My Azure Resume
+
 
 # Section 1 Building 
 
